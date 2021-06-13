@@ -1,0 +1,50 @@
+.olduser{
+    padding: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
+.olduser button{
+    margin-top:5%
+}
+.pb-2{
+    padding-bottom:2% !important;
+}
+.mb-2{
+    margin-bottom:2% !important;
+}
+.mb-5{
+    margin-bottom:5% !important;
+}
+.mt-3{
+    margin-top:3% !important;
+}
+.mt-5{
+    margin-top:5% !important;
+}
+ .mx-2{
+    margin-right:2% !important;
+    margin-left:2% !important;
+
+ }
+ .header-container{
+     max-width: 92% !important;
+     padding: 0px;
+     margin: 0px auto;
+ }
+ .main-drop-down{
+     max-width: 32% !important;
+     right:0px;
+ }
+
+ @media screen and (max-width: 600px) {
+    .main-drop-down {
+        max-width: 45% !important;
+     } 
+}
+@media screen and (max-width: 400px) {
+    .main-drop-down {
+        max-width: 60% !important; } 
+}
+
+
+  
